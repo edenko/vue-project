@@ -41,8 +41,8 @@ vue-project/
 │   └── index.html
 └── src
     ├── assets
-    │     ├── logo.png
-    │     └── rooms.js
+    │     ├── images/
+    │     └── dto/
     ├── components
     ├── App.vue
     └── main.js
